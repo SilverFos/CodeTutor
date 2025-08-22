@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "lang": "Python",
+        "type": "for loop",
+        "code": "for i in range(5): print(i)",
+        "explain": "Sets i=0, adds 1 each time, stopping at 4; prints i on each step.",
+        "choices": ["for i in", "range(5):", "print(i)"],
+        "order": [0, 1, 2]
+    }
+]
