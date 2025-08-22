@@ -1,0 +1,12 @@
+#python and venv with caches
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+
+#vscode settings
+.vscode/
+
+.DS_Store
+.env
+*.db
