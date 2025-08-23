@@ -1,0 +1,19 @@
+[
+  {
+    "id": 0,
+    "section": "exercise",
+    "topic": "introduction",
+    "message": "Welcome to the CodeTutor Exercise! Practice coding with challenges and topics designed to build your skills and fundamentals.",
+    "languagesAvailable": [
+      {
+        "name": "Python",
+        "description": "Versatile and beginner‑friendly."
+      },
+      {
+        "name": "CSS",
+        "description": "For styling and designing web pages."
+      }
+    ],
+    "note": "More languages coming soon."
+  }
+]

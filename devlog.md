@@ -22,3 +22,22 @@
 
 ### Review
 - Need to be careful with filenames. single spelling mistake breaks system
+
+## 23 August 2025
+
+### Tasks completed
+- created notes.md to note down new topics and guides
+- created exercises/intro.json for seperate introduction page
+- updated activ.bat with checks to ensure venv activation
+- updated app.py to hold seperate link for exercise introduction
+
+### Problems faced
+- faced 404 issue due to stray slash (additional / after link). can be resolved by including alternate route
+
+### Next steps
+- create json for verious python subtopics.
+- create dynamic route to implement multiple subtopics
+- make basic html inteface
+
+### Review
+- need to ensure multiple failsafes.
