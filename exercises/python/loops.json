@@ -1,0 +1,13 @@
+{
+  "id": "python/loops",
+  "title": "Loops in Python",
+  "completion_status": "incomplete",
+  "next_topic": "python/functions",
+  "content": [
+    {
+      "message": "Loops let you repeat actions without rewriting code.",
+      "examples": ["for i in range(5): print(i)", "while x < 10: x += 1"],
+      "note": "Use 'for' for known ranges, 'while' for conditions."
+    }
+  ]
+}

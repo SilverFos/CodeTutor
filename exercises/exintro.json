@@ -1,0 +1,37 @@
+{
+  "note": "More languages coming soon",
+  "languages": [
+    {
+      "id": "python",
+      "name": "Python",
+      "use_cases": ["Web development", "Data science", "Automation", "AI/ML"],
+      "market_value": "High — in demand across startups, AI research, and enterprise automation.",
+      "difficulty": "Easy",
+      "desc": "The friendly neighborhood language — so simple it feels like cheating, until you realize it runs half the internet."
+    },
+    {
+      "id": "cpp",
+      "name": "C++",
+      "use_cases": ["Game development", "High-performance systems", "Embedded devices"],
+      "market_value": "High in specialized fields — game engines, finance, and performance-critical systems.",
+      "difficulty": "Hard",
+      "desc": "The sports car of programming — fast, powerful, and will crash spectacularly if you don't know what you're doing."
+    },
+    {
+      "id": "html",
+      "name": "HTML",
+      "use_cases": ["Web structure", "Email templates", "Frontend foundations"],
+      "market_value": "Essential — every web project starts here, even if it's just the skeleton.",
+      "difficulty": "Very Easy",
+      "desc": "The bones of the web — not flashy, but without it, the internet would just be a void."
+    },
+    {
+      "id": "javascript",
+      "name": "JavaScript",
+      "use_cases": ["Web apps", "Frontend interactivity", "Backend (Node.js)"],
+      "market_value": "Very High — powers most interactive websites and many backend systems.",
+      "difficulty": "Medium",
+      "desc": "The language that runs in your browser — and occasionally runs away with your sanity."
+    }
+  ]
+}

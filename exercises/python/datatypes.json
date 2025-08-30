@@ -1,0 +1,13 @@
+{
+  "id": "python/datatypes",
+  "title": "Data Types in Python",
+  "completion_status": "incomplete",
+  "next_topic": "python/loops",
+  "content": [
+    {
+      "message": "Common types: int, float, str, bool, list, tuple, dict.",
+      "examples": ["age = 21", "price = 19.99", "is_active = True"],
+      "note": "Data types define what operations you can perform."
+    }
+  ]
+}

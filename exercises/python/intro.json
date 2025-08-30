@@ -1,0 +1,12 @@
+{
+  "id": "python/intro",
+  "title": "Introduction to Python",
+  "completion_status": "incomplete",
+  "next_topic": "python/variables",
+  "content": [
+    {
+      "message": "Welcome to Python! It's beginner-friendly, versatile, and powers everything from web apps to AI.",
+      "note": "Think of Python as the Swiss Army knife of programming."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "python/variables",
+  "title": "Variables in Python",
+  "completion_status": "incomplete",
+  "next_topic": "python/datatypes",
+  "content": [
+    {
+      "message": "Variables store data for later use. Assign them with '='.",
+      "examples": ["x = 5", "name = 'Sanal'"],
+      "note": "Python infers the type automatically."
+    }
+  ]
+}
